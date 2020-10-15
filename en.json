@@ -1,0 +1,22 @@
+{
+	"en":{
+		"home": {
+
+			"Welcome": "Welcome",
+		  	"to":"to",
+		  	"Asgardia":"Asgardia",
+		  	"Forgot":'Forgot',
+		  	"Password":'Password',
+		  	"Dont":'Dont',
+		  	"have":'have',
+		  	"an":'an',
+		  	"account":'account',
+		  	"yet":'yet',
+		  	"Signup":'Signup',
+		  	"Change":'Change',
+		  	"Language":'Language',
+		  	"UserName":'UserName',
+		  	"Login":'Login'
+		}
+	}
+};

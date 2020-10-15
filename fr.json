@@ -1,0 +1,17 @@
+{
+	Welcome:'Bienvenue',
+  to:'à',
+  Asgardia:'Asgardia',
+  Forgot:'Oublié',
+  Password:'Mot de passe',
+  Dont:'Ne le fais pas',
+  have:'avoir',
+  an:'une',
+  account:'Compte',
+  yet:'encore',
+  Signup:'Sinscrire',
+  Change:'Changement',
+  Language:'Langue',
+  UserName:"Nom d'utilisateur",
+  Login:"S'identifier"
+};
